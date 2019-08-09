@@ -192,7 +192,7 @@ margin-inline: 10%;
   <font  size="4em" color="white">
 
  <ol> Contacto:
-  <li> Email:</li>
+  <li> Email: cerbotx9@gmail.com</li>
   <li> Telefono:</li>
   <li> Email Alternativo:</li>
 
