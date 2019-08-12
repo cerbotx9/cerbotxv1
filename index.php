@@ -17,7 +17,12 @@
 <body>
     
 <style>
+button{
+background-color: greenyellow;
+border-color: green;
+color: greenyellow;
 
+}
 .left, .right {
   float: left;
   width: 20%; /* The width is 20%, by default */
