@@ -193,7 +193,7 @@ margin-inline: 10%;
 
  <ol> Contacto:
   <li> Email: cerbotx9@gmail.com</li>
-  <li> Telefono:</li>
+  <li> Telefono: 55 79 60 55 14</li>
   <li> Email Alternativo:</li>
 
  </ol>
