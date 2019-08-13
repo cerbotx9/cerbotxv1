@@ -134,6 +134,7 @@ margin-inline: 10%;
 <hr color="red">
 
 <h1 class="display-5" align="center"><b>CERBOTX Y</b></h1>
+          <h2> Fundador: Ing. Mario Enrique Perez Valente </h2>
 <h1 ALING="LEFT" >CASA DE DESARROLLO WEB APP 4.0</h1>
 <hr >
    
