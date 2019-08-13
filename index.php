@@ -8,7 +8,7 @@
 
     <!--CSS Boostrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/principales.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css" >
     
 
 
@@ -91,6 +91,7 @@ margin-inline: 10%;
 </style>
 
 <!-- Particulas -->
+
  <div id="particles-js">
     
     </div>
@@ -134,7 +135,6 @@ margin-inline: 10%;
 <hr color="red">
 
 <h1 class="display-5" align="center"><b>CERBOTX Y</b></h1>
-          <h2> Fundador: Ing. Mario Enrique Perez Valente </h2>
 <h1 ALING="LEFT" >CASA DE DESARROLLO WEB APP 4.0</h1>
 <hr >
    
@@ -197,13 +197,13 @@ margin-inline: 10%;
   <div class="footpage">
   <font  size="4em" color="white">
 
- <ol> Contacto:
-     <a href="https://www.facebook.com/cerbotx/"><button><li> Facebook: CERBOTX (clic)</li></button></a>
+ <ul> Contacto: <br>
+<li><a href="https://www.facebook.com/cerbotx/"><button style="color:white;"> <font color="black">Facebook: cerbotx</font>  </button></a></li>
   <li> Email: cerbotx9@gmail.com</li>
   <li> Telefono: 55 79 60 55 14</li>
   <li> Email Alternativo:</li>
 
- </ol>
+ </ul>
 
 
 </font>
