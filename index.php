@@ -8,7 +8,7 @@
 
     <!--CSS Boostrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/principales.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/principales.css" >
     
 
 
@@ -17,7 +17,12 @@
 <body>
     
 <style>
+button{
+background-color: greenyellow;
+border-color: green;
+color: greenyellow;
 
+}
 .left, .right {
   float: left;
   width: 20%; /* The width is 20%, by default */
@@ -86,6 +91,7 @@ margin-inline: 10%;
 </style>
 
 <!-- Particulas -->
+
  <div id="particles-js">
     
     </div>
@@ -191,13 +197,13 @@ margin-inline: 10%;
   <div class="footpage">
   <font  size="4em" color="white">
 
- <ol> Contacto:
- <a href="https://www.facebook.com/cerbotx/"><li> Facebook: CERBOTX (clic)</li></a>
+ <ul> Contacto: <br>
+<li><a href="https://www.facebook.com/cerbotx/"><button style="color:white;"> <font color="black">Facebook: cerbotx</font>  </button></a></li>
   <li> Email: cerbotx9@gmail.com</li>
   <li> Telefono: 55 79 60 55 14</li>
   <li> Email Alternativo:</li>
 
- </ol>
+ </ul>
 
 
 </font>
